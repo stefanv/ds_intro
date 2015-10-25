@@ -1,0 +1,104 @@
+#  An introduction to "Data Science"
+
+## Python Survival Pack
+
+14:00 -- 15:40 Session One
+16:15 -- 17:55 Session Two
+
+** Add mybinder links **
+
+## Session One: Exploring the data (100 mins)
+
+DS: Asking & answering questions about data
+ - Principles
+ - Methods
+ - Discipline
+
+Data Loading, Cleaning and Visualization
+
+ + nature (big/small, stream/not, etc.)
+
+1. Introduction + install + overview (20 mins)
+
+   - Give page of resources including:
+
+     - scipy lectures
+     - docs for pandas, seaborn, scikit-learn, etc.
+
+   - Mention git as prominent first step in tracking code / data
+
+2. [X] (NumPy) + Pandas (+ basic hist / plotting) (40 mins)
+3. [X] Assignment: "early births" (30 mins)
+4. Solution of "early births": (10 mins)
+
+## Session Two:  (100 mins)
+
+- Visualization using Seaborn (20 mins)
+  - Mention alternatives (Matplotlib, Bokeh, Vega, etc.)
+
+- [X] Scikit-learn (40 mins)
+  - ML: Supervised classification
+  - Training vs testing data
+  - API overview
+  - Example: Titanic
+
+- [X] Assignment (Iris dataset): (30 mins)
+- Solutions of Iris dataset: (10 mins)
+
+
+A. Data management, data exploration and visualization, and data processing
+
+Data management includes the versioning of material (e.g., us-
+ing snapshots, check-ins, or labeled back-ups), sharing and distri-
+bution (e.g., revision control, databases, cloud storage, distributed
+networks, network file servers or physical media) and cleaning
+(converting the data into usable formats, interpreting elements, and
+scrubbing out invalid or blank records).
+
+Once the data is in a usable form, it can be explored to gain an in-
+tuitive understanding of what it contains (and whether there are any
+anomalies—such as sampling or encoding artifacts—to be aware
+of). This step can include reducing the amount of data through slic-
+ing or projection, calculating summary statistics, and plotting the
+resulting sets in various ways.
+
+After we’ve improved our understanding of the data, we process
+it by applying more sophisticated statistical models. From these
+models, we may draw inferences on newly obtained data, or use
+our results to frame questions for a next round of data gathering.
+After attending this part of the tutorial, attendees should have a
+basic global understanding of the data science landscape
+
+
+B. Part 2: The data scientist’s Python toolbox
+
+(a) Create a numpy array and perform fundamental operations on
+it.
+(b) Plot one and two dimensional arrays.
+(c) Load/save arrays from/to disk.
+(d) Create common plotting items such as line plots, histograms,
+scatter plots, density plots, error bars and error margins (on
+line plots).
+(e) Create a network with nodes and links and run some common
+queries on it.
+(f) Be able to help themselves (from online sources and via doc-
+strings), should they get stuck.
+
+C. Data Exploration
+
+(a) Be aware of the most common ways of storing and fetch-
+ing data, including revision control systems (such as Git) and
+SQL, as well as formats (such as CSV, JSON).
+(b) Be able to load a CSV file from disk.
+(c) Be able to remove or replace missing values from a data-set.
+(d) Know how to perform exploratory data visualization, includ-
+ing slicing and displaying a data set.
+
+D. Analysis
+
+(a) Understand what a classifier is.
+(b) Be familiar with the scikit-learn classifier API.
+(c) Be able to construct a random forest classifier based on known
+data.
+(d) Be able to evaluate its classification accuracy for a new, un-
+known set of data.
