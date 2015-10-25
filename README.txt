@@ -1,5 +1,7 @@
 #  An introduction to "Data Science"
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/stefanv/ds_intro)
+
 ## A Python Survival Pack
 
 ### Installation
