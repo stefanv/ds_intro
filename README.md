@@ -1,6 +1,6 @@
 #  An introduction to "Data Science"
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/stefanv/ds_intro)
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/stefanv/ds_intro/master)
 
 ## A Python Survival Pack
 
